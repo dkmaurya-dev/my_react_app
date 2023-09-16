@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dkmaurya-dev/my_react_app/static/css/main.521160fa.css",
+    "main.js": "/dkmaurya-dev/my_react_app/static/js/main.955cd958.js",
+    "static/js/787.bc7d429a.chunk.js": "/dkmaurya-dev/my_react_app/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/dkmaurya-dev/my_react_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dkmaurya-dev/my_react_app/index.html",
+    "main.521160fa.css.map": "/dkmaurya-dev/my_react_app/static/css/main.521160fa.css.map",
+    "main.955cd958.js.map": "/dkmaurya-dev/my_react_app/static/js/main.955cd958.js.map",
+    "787.bc7d429a.chunk.js.map": "/dkmaurya-dev/my_react_app/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521160fa.css",
+    "static/js/main.955cd958.js"
+  ]
+}
